@@ -1,0 +1,36 @@
+# Django
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.log
+*.sqlite3
+db.sqlite3
+migrations/
+
+# Python virtual environment
+venv/
+ENV/
+env/
+.Python
+
+# React
+/frontend/node_modules
+/frontend/.env
+/frontend/.env.*
+/frontend/build/
+
+# Miscellaneous
+.DS_Store
+*.swp
+*.swo
+*.swn
+*.bak
+*.cache
+*.log
+*~
+*.sublime*
+*.idea/
+*.vscode/
+*.tmp
+.env
