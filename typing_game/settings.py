@@ -43,7 +43,8 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "typing_app.apps.TypingAppConfig",
     "rest_framework",
-    'corsheaders'
+    "corsheaders",
+    "gutendex.apps.GutendexConfig",
 ]
 
 MIDDLEWARE = [
